@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ml_flow_basics/mlruns/0/f51fc20f59c1459c9ef0d9af187f086a/artifacts
+end_time: 1734542487192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f51fc20f59c1459c9ef0d9af187f086a
+run_name: omniscient-loon-592
+run_uuid: f51fc20f59c1459c9ef0d9af187f086a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734542478702
+status: 3
+tags: []
+user_id: Harsh

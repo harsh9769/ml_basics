@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ml_flow_basics/mlruns/0/d46f934fb3c947228bb1acab6f1e023d/artifacts
+end_time: 1734542790353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d46f934fb3c947228bb1acab6f1e023d
+run_name: victorious-conch-758
+run_uuid: d46f934fb3c947228bb1acab6f1e023d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734542786702
+status: 3
+tags: []
+user_id: Harsh
